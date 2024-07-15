@@ -7,7 +7,7 @@ Deep Learning project to classify lung X-ray images as pneumonia or normal using
 This project utilizes a Convolutional Neural Network (CNN) to classify lung X-ray images as either pneumonia or normal. The model was trained and tested on a dataset sourced from Kaggle.
 
 ## Dataset
-The dataset used in this project consists of lung X-ray images and was sourced from Kaggle. You can download the dataset [here]([https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia](https://www.kaggle.com/datasets/khoongweihao/covid19-xray-dataset-train-test-sets).
+The dataset used in this project consists of lung X-ray images and was sourced from Kaggle. You can download the dataset [here](https://www.kaggle.com/datasets/khoongweihao/covid19-xray-dataset-train-test-sets).
 
 ## Project Structure
 - `data/`: Directory containing the dataset.
